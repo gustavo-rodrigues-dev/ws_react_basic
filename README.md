@@ -1,5 +1,5 @@
 #Chat com React PHP e Angular JS
-Esse é um simples exemplo de um chat utiliazando websocket com PHP, utilizando o ReachNet, que abstrai toda a camada do serviço websocket
+Esse é um simples exemplo de um chat utilizando websocket com PHP +  ReachNet, que abstrai toda a camada do serviço websocket.
 
 **Para iniciar o Projeto**
 No terminal, acesse a pasta do projeto e insira o código abaixo:
